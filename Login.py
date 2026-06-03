@@ -7,7 +7,6 @@ def login():
     login_password = 'Administrator'
 
     #User Input
-
     username = input('Enter your username: ')
     password = input('Enter your password: ')
 
