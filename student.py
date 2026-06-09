@@ -10,6 +10,8 @@ class Student:
 
 #Create an instance of the Student class
 student1 = Student("Abel", 45)
+student2 = Student("Betty", 75)
 
 #Print whether the student passed
 print(student1.is_passed())
+print(student2.is_passed())
